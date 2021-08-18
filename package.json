@@ -1,0 +1,9 @@
+{
+  "name": "todo-list-cli-app",
+  "version": "0.0.1",
+  "description": "Interactive CLI program for managing todo-tasks",
+  "main": "app.js",
+  "author": "Edwing123 <egarciavalle2014@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
