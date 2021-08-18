@@ -5,5 +5,9 @@
   "main": "app.js",
   "author": "Edwing123 <egarciavalle2014@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
 }
